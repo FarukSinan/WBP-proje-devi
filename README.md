@@ -24,5 +24,8 @@ Proje, HTML, CSS ve JavaScript dilleri kullanılarak geliştirilmiştir. Oyun me
 - Her çarpışma durumunda oyunun sona ermesi ve bir oyun sonu mesajının gösterilmesi.
 - Oyun sırasında puanın hesaplanması ve ekranda görüntülenmesi.
 
+## Oyuna erişim
+- jsproject2003.000.pe adlı linke tarayıcıdan erişerek oynayabilirsiniz.
+  
 ## Katkılar
 Eğer bu oyunu geliştirmek veya iyileştirmek isterseniz, GitHub deposuna katkıda bulunabilirsiniz. Her türlü katkı ve geri bildirim hoş karşılanır.
