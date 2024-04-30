@@ -1,7 +1,7 @@
-# JavaScript ile Oyun Geliştirme
+# Web Tabanlı Programlama Javascript Projesi
 
 ## Proje Tanımı
-Bu proje, tarayıcı tabanlı bir oyun geliştirme örneğidir. Oyun, JavaScript kullanılarak oluşturulmuş basit bir platform oyunudur. Oyuncu, bir nesneyi kontrol ederek rakiplerden ve mermi saldırılarından kaçınmaya çalışır.
+Bu proje, tarayıcı tabanlı bir oyun geliştirme örneğidir. Oyun, JavaScript kullanılarak oluşturulmuş basit bir platform oyunudur. Oyuncu, bir nesneyi kontrol ederek mermi saldırılarından kaçınmaya çalışır.
 
 ## Nasıl Oynanır
 Oyuna başlamak için tarayıcınızda index.html dosyasını açmanız yeterlidir. Oyun alanı yüklendikten sonra aşağıdaki kontrollerle oynayabilirsiniz:
